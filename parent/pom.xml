@@ -29,7 +29,7 @@
     <version.openjpa>1.2.2</version.openjpa>
 
     <version.slf4j>1.7.26</version.slf4j>
-    <version.logback>1.1.2</version.logback>
+    <version.logback>1.5.25</version.logback>
     <version.junit>4.12</version.junit>
     <version.assertj>3.27.7</version.assertj>
     <version.mockito>1.9.5</version.mockito>
